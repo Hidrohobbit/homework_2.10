@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(homework_2.10.2)
+add_executable(homework_2.10.2 homework_2.10.2.cpp class_Equilateral_triangle.cpp class_Equilateral_triangle.h class_Figure.cpp class_Figure.h class_Isosceles_triangle.cpp class_Isosceles_triangle.h class_Parallelogram.cpp class_Parallelogram.h class_Quadrangle.cpp class_Quadrangle.h class_Rectangle.cpp class_Rectangle.h class_Rectangular_triangle.cpp class_Rectangular_triangle.h class_Rhomb.cpp class_Rhomb.h class_Square.cpp class_Square.h class_Triangle.cpp class_Triangle.h)

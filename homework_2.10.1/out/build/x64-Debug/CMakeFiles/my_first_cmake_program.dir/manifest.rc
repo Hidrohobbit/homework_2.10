@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Bybr/Desktop/Netology/git_work/homework_2.10/homework_2.10.1/out/build/x64-Debug/CMakeFiles/my_first_cmake_program.dir/embed.manifest"

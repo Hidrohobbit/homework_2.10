@@ -1,0 +1,3 @@
+C:/Users/Bybr/Desktop/Netology/git_work/homework_2.10/homework_2.10.1/out/build/x64-Debug/CMakeFiles/my_first_cmake_program.dir
+C:/Users/Bybr/Desktop/Netology/git_work/homework_2.10/homework_2.10.1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Bybr/Desktop/Netology/git_work/homework_2.10/homework_2.10.1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
